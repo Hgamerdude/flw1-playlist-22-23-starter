@@ -2,8 +2,14 @@
 h1 {
   text-align: center;
   color: #AD1A00;
+  font-size: 33px;
 }
-
+h2{
+  font-size: 28px;
+}
+p{
+  font-size: 26px;
+}
 body {
   background-color: #00d8ff;
 }
@@ -26,13 +32,13 @@ body {
 
 input {
   padding: 5px 10px;
-  font-size: 14px;
+  font-size: 28px;
   color: #00d8ff;
   background-color: #3c1c16;
 }
 
 button {
-  font-size: 14px;
+  font-size: 28px;
   padding: 5px 10px;
   color: #00d8ff;
   background-color: #AD1A00;
@@ -52,7 +58,7 @@ button {
 }
 
 .display h2 {
-  font-size: 14px;
+  font-size: 26px;
   margin: 5px;
   color: #00d8ff;
 }
